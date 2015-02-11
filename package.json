@@ -1,0 +1,26 @@
+{
+  "name": "endomondo-js",
+  "version": "0.0.1",
+  "description": "JS API for retrieving training data from Endomondo",
+  "author": "Michael Vernier <swyphcosmo@gmail.com>",
+  "main": "./endomondo.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swyphcosmo/endomondo-js"
+  },
+  "bugs": {
+    "url": "https://github.com/swyphcosmo/endomondo-js/issues"
+  },
+  "keywords": [
+    "endomondo"
+  ],
+  "dependencies": {
+    "request": "2.53.0",
+    "uuidv5": "0.0.0"
+  },
+  "devDependencies": {
+  },
+  "preferGlobal": false,
+  "private": true,
+  "license": "MIT"
+}
