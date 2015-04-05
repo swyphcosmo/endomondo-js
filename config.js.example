@@ -1,2 +1,9 @@
-var email = 'example@example.com'
-var password = 'password'
+var config = 
+{
+	email: 'example@example.com',
+	password: 'password'
+};
+
+module.exports = config;
+
+
